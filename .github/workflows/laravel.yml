@@ -3,7 +3,7 @@ name: Laravel CI/CD for inertia_crud
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
